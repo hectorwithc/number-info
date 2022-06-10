@@ -1,7 +1,5 @@
 # **Number-Info**
 
-### A simple python number info tool.
-
 ![Showcase](./assets/showcase-2.png)
 
 ## **Use**
