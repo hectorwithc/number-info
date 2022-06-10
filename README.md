@@ -2,7 +2,7 @@
 
 ### A simple python number info tool.
 
-![Showcase](./assets/showcase.png)
+![Showcase](./assets/showcase-2.png)
 
 ## **Use**
 - Git clone repository: `git clone https://github.com/hectorwithc/number-info.git`
